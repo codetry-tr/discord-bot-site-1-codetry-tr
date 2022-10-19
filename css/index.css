@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    background-color: #333;
+}
+
+.container{
+  padding: 50px;
+}
+
+.card{
+  width: 300px;
+  height: 420px;
+  background-color: #1f1f1f;
+  border-radius: 10px 10px;
+}
+
+.header{
+  border-radius: 10px 10px 0px 0px;
+  padding: 5px;
+  background-color: #e83838;
+}
+
+h3{
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 1rem;
+}
+
+.iconM{
+  font-size: 18px;
+  margin-left: 170px;
+  color: #2f89fc;
+}
+
+.icon{
+  margin-right: 8px;
+}
+
+.body li{
+  transition: 1s all;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  padding: 15px;
+  margin-left: -40px;
+  margin-top: 0px;
+  color: #fff;
+  list-style: none;
+  display: block;
+  border-top-right-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+}
+
+li:hover{
+  transition: 1s all;
+  color: #2f89fc;
+  background-color: rgba(42, 56, 65, 0.82);
+  border-top-right-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  cursor: pointer;
+}
+
+.body > li{
+  float: left;
+}
+
+.body li ul{
+  background: #1E2B32;
+  margin-left: 280px;
+  margin-top: -38px;
+  display: none;
+  position: absolute;
+  border-top-right-radius: 15px 15px;
+  border-bottom-right-radius: 15px 15px;
+}
+
+.body li:hover > ul{
+  display: block;
+  cursor: pointer;
+}
+
+.boxxxx{
+    border-radius: 8px;
+    width: 500px;
+    height: 250px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    position: relative;
+    margin-left: 600px;
+    margin-top: -500px;
+}
+
+.boxx-title{
+    color: white;
+    font-family: sans-serif;
+}
+
+.boxx-p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.boxx-btn a{
+    background-color: #e83838;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-left: 20px;
+}
+
+.boxx-btn a:hover{
+    transition: all .5s ease;
+    background-color: #f56c6c;
+    border: none;
+}
+
+.boxx-img img{
+    height: 200px;
+}
