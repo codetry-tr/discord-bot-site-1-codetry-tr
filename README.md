@@ -2,11 +2,11 @@
 
 Site tamamen CodeTry#1239 Tarafından Kodlanmıştır.
 
-Siteyi discord.me/codetry sunucusuna gelerek alınız.
+Siteyi [discord.me/codetry](https://discord.gg/waQfztQV4A) sunucusuna gelerek alınız.
 
-Siteyi discord.me/codetry sunucusundan almayanlar ise Siber Suçlara bildirilip telif atılacaktır.
+Siteyi [discord.me/codetry](https://discord.gg/waQfztQV4A) sunucusundan almayanlar ise Siber Suçlara bildirilip telif atılacaktır.
 
-discord.me/codetry sunucumuzda birsürü altyapı paylaşıyoruz. Gelmeyi unutmayın.
+[discord.me/codetry](https://discord.gg/waQfztQV4A) sunucumuzda birsürü altyapı paylaşıyoruz. Gelmeyi unutmayın.
 
 
 YouTube: https://www.youtube.com/channel/UCBvKPEV3sfqrtXzbV6YGlIw
